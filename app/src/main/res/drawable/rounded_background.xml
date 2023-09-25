@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="17dp" /> <!-- Defina o raio desejado para arredondar -->
+    <solid android:color="@color/white" /> <!-- Defina a cor de fundo desejada -->
+</shape>
