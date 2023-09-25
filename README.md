@@ -5,8 +5,16 @@
 
 simples app de perguntas 
 utilizando maximo de features nativa do android studio 
-<img width="412" alt="Captura de Tela 2023-09-25 às 10 15 15" src="https://github.com/jhonnatanmonteiro/perguntados_kotlin/assets/104521861/6d1578e5-56be-4891-a25b-d578808d89d1">
-<img width="338" alt="Captura de Tela 2023-09-25 às 10 17 54" src="https://github.com/jhonnatanmonteiro/perguntados_kotlin/assets/104521861/12c00c2c-f3af-4642-8418-e3abef1b2539">
+
+<img width="379" alt="Captura de Tela 2023-09-25 às 10 23 26" src="https://github.com/jhonnatanmonteiro/perguntados_kotlin/assets/104521861/81e28434-bf7b-49c3-937b-9b2b7971920e">
+<img width="379" alt="Captura de Tela 2023-09-25 às 10 23 19" src="https://github.com/jhonnatanmonteiro/perguntados_kotlin/assets/104521861/645bd2c3-20e5-40a8-a62d-a7710be5b048">
+<img width="379" alt="Captura de Tela 2023-09-25 às 10 23 10" src="https://github.com/jhonnatanmonteiro/perguntados_kotlin/assets/104521861/868eda6c-f216-4ed5-83f1-b2759d0f54a4">
+
+
+
+existe um contador de acertos 
+
+
 
 
 
